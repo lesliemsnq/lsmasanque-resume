@@ -1,0 +1,33 @@
+
+.name{
+  padding-left: 250px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 50px;
+  padding-top: 100px;
+  color: #CD5C5C;
+  padding-top: 150px;
+}
+.name h1{
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  line-height: 50px;
+}
+.abt-me{
+  padding-left: 10px;
+  font-size: 25px;
+  font-family: 'Inconsolata', monospace;
+  color: #212F3D;
+}
+.abt-me p{
+  padding: 0px;
+  line-height: 0px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.abt-me1 p{
+  padding-left: 250px;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+  color: #818181;
+  
+}
